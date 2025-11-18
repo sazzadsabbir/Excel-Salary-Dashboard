@@ -4,7 +4,8 @@
 This dashboard provides an analytical overview of salaries in the data job market, supporting job seekers in evaluating compensation for their desired roles.
 The dataset, derived from Excel course of **Luke Barousse**, contains extensive information on job titles, salary ranges, geographic distribution, and required skill sets.
 ## Download File
-My final dashboard is in
+My final dashboard is in [title](https://github.com/sazzadsabbir/Excel-Salary-Dashboard/blob/main/Data_Science_Salary_Dashboard.xlsx)
+
 ## Excel Skills Used 
 The following Excel skills were utilized for analysis:
 - 📉 **Charts**
