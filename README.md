@@ -4,7 +4,7 @@
 This dashboard provides an analytical overview of salaries in the data job market, supporting job seekers in evaluating compensation for their desired roles.
 The dataset, derived from Excel course of **Luke Barousse**, contains extensive information on job titles, salary ranges, geographic distribution, and required skill sets.
 ## Download File
-My final dashboard is in [title](https://github.com/sazzadsabbir/Excel-Salary-Dashboard/blob/main/Data_Science_Salary_Dashboard.xlsx)
+My final dashboard is in [Salary_Dashboard.xlsx](https://github.com/sazzadsabbir/Excel-Salary-Dashboard/blob/main/Data_Science_Salary_Dashboard.xlsx)
 
 ## Excel Skills Used 
 The following Excel skills were utilized for analysis:
@@ -84,10 +84,11 @@ The dataset used for this project contains real-world data science job informati
 ## ❎ Data Validation
 
 ### 🔍 Filtered List
-- 🔒 Enhanced Data Validation: Implementing the filtered list as a data validation rule under the Job Title, Country, and Type option in the Data tab ensures:
-1. 🎯 User input is restricted to predefined, validated schedule types
-2. 🚫 Incorrect or inconsistent entries are prevented
-3. 👥 Overall usability of the dashboard is enhanced
+- 🔒 **Enhanced Data Validation**: Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
+  - 🎯 User input is restricted to predefined, validated schedule types
+  - 🚫 Incorrect or inconsistent entries are prevented
+  - 👥 Overall usability of the dashboard is enhanced
+
 
 ![Salary_Dashboard_Data_Validation](https://github.com/user-attachments/assets/ca5deeb1-c94a-4dbc-9a76-d21b47785bc4)
 
